@@ -66,15 +66,15 @@ http://localhost:3000
 
 📸 Screenshots
 
-1. <img width="1919" height="1016" alt="01-login-username png" src="https://github.com/user-attachments/assets/adeb9d0c-2d2e-49a8-be3a-de1a650938ef" />
+1. <img width="1919" height="1013" alt="Screenshot 2026-04-24 194855" src="https://github.com/user-attachments/assets/585d9890-f48b-4479-a127-a2dd8e603b6b" />
 
    Shows the username input prompt when a user opens the chat application.
 
-2. <img width="1919" height="1016" alt="02-user-a-chat png" src="https://github.com/user-attachments/assets/e07d0fa5-c500-41a8-82d2-9f342780fd6d" />
+2. <img width="1919" height="1015" alt="Screenshot 2026-04-24 194952" src="https://github.com/user-attachments/assets/67f45d58-0925-4398-9260-171270fe7127" />
 
    Shows User A sending messages in real time with right-side message alignment.
 
-3. <img width="1919" height="1017" alt="03-user-b-chat png" src="https://github.com/user-attachments/assets/e253d52b-a051-4107-8b5c-b32a7feed226" />
+3. <img width="1919" height="1009" alt="Screenshot 2026-04-24 195010" src="https://github.com/user-attachments/assets/237b35e8-8704-47a6-b6d4-11e798a40989" />
 
    Shows User B receiving messages instantly with left-side message alignment.
 
