@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LinkUp</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+  <div class="chat-card">
+
+    <div class="header">
+      <div>
+        <h2>LinkUp</h2>
+        <p>Real-Time Chat Application</p>
+      </div>
+      <span class="online-dot"></span>
+    </div>
+
+    <ul id="messages"></ul>
+
+    <form id="form">
+      <input id="input" placeholder="Type your message..." autocomplete="off">
+      <button type="submit">Send</button>
+    </form>
+
+  </div>
+</div>
+
+<script src="/socket.io/socket.io.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
